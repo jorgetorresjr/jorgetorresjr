@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Jorge Torres
 
-🎓 Desenvolvedor em formação, estudando Análise e Desenvolvimento de Sistema,s e entusiasta de tecnologia.  
+🎓 Desenvolvedor em formação e entusiasta de tecnologia.  
 💡 Tenho interesse em **Back-end, IoT, computação quântica e inteligência artificial**.
 
 ---
